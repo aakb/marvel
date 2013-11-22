@@ -2,10 +2,10 @@ api = 2
 core = 7.x
 
 ; Install profile.
-projects[loopdk][type] = "profile"
-projects[loopdk][download][type] = "git"
-projects[loopdk][download][url] = "git@github.com:aakb/marvel.git"
-projects[loopdk][branch] = "master"
+projects[marvel][type] = "profile"
+projects[marvel][download][type] = "git"
+projects[marvel][download][url] = "git@github.com:aakb/marvel.git"
+projects[marvel][branch] = "master"
 
 ; Contrib modules
 projects[apachesolr][subdir] = "contrib"
