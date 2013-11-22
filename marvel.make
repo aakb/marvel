@@ -1,3 +1,6 @@
+api = 2
+core = 7.x
+
 ; Contrib modules
 projects[apachesolr][subdir] = "contrib"
 projects[apachesolr][version] = "1.6"
