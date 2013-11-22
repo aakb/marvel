@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-includes[] = "drupal-org-core.make"
+includes[] = "https://raw.github.com/aakb/marvel/master/drupal-org-core.make"
 
 ; Install profile.
 projects[marvel][type] = "profile"
