@@ -1,6 +1,8 @@
 api = 2
 core = 7.x
 
+includes[] = "drupal-org-core.make"
+
 ; Install profile.
 projects[marvel][type] = "profile"
 projects[marvel][download][type] = "git"
