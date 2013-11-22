@@ -10,5 +10,5 @@ projects[marvel][download][type] = "git"
 projects[marvel][download][url] = "git@github.com:aakb/marvel.git"
 projects[marvel][branch] = "master"
 
-includes[] = drupal-org.make
-includes[] = other.make
+includes[] = "https://raw.github.com/aakb/marvel/master/drupal-org.make"
+includes[] = "https://raw.github.com/aakb/marvel/master/other.make"
